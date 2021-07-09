@@ -60,10 +60,10 @@
           <div class="col-md-6">
             <div class="footer-menu text-center text-md-right">
               <ul class="list-unstyled mb-0">
-                <li><a href="about.html">About</a></li>
-                <li><a href="team.html">Our people</a></li>
-                <li><a href="faq.html">Faq</a></li>
-                <li><a href="news-left-sidebar.html">Blog</a></li>
+                <li><a href="<?php base_url();?>about">About</a></li>
+                <li><a href="<?php base_url();?>team">Our people</a></li>
+                <li><a href="<?php base_url();?>faq">Faq</a></li>
+                
                 <!--<li><a href="pricing.html">Pricing</a></li>-->
               </ul>
             </div>

@@ -31,7 +31,7 @@
   <!-- Colorbox -->
   <link rel="stylesheet" href="<?php echo base_url('assets/plugins/colorbox/colorbox.css'); ?>">
   <!-- Template styles-->
-  <link rel="stylesheet" type="text/css" href="assets/css/style.css" media="all">
+  <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/style.css');?>" media="all">
 
 </head>
 <body>
@@ -112,7 +112,7 @@
                     </div>
                   </li>
                   <li class="header-get-a-quote">
-                    <a class="btn btn-primary" href="contact.html">Contact us</a>
+                    <a class="btn btn-primary" href="<?php base_url();?>contact">Contact us</a>
                   </li>
                 </ul><!-- Ul end -->
             </div><!-- header right end -->
@@ -136,7 +136,7 @@
                       <li class="nav-item dropdown active">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Home <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li class="active"><a href="index.html">Home One</a></li>
+                            <li class="active"><a href="<?php base_url();?>home">Home</a></li>
                             <!--<li><a href="index-2.html">Home Two</a></li>-->
                           </ul>
                       </li>
@@ -144,18 +144,18 @@
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Company <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="team.html">Our People</a></li>
-                            <li><a href="testimonials.html">Testimonials</a></li>
-                            <li><a href="faq.html">Faq</a></li>
-                            <li><a href="pricing.html">Pricing</a></li>
+                            <li><a href="<?php base_url();?>about">About Us</a></li>
+                            <li><a href="<?php base_url();?>team">Our People</a></li>
+                            <li><a href="<?php base_url();?>testimonials">Testimonials</a></li>
+                            <li><a href="<?php base_url();?>faq">Faq</a></li>
+                            
                           </ul>
                       </li>
               
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Products <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="projects.html">Projects All</a></li>
+                            <li><a href="<?php base_url();?>projects">Projects All</a></li>
                             <!--<li><a href="projects-single.html">Projects Single</a></li>-->
                           </ul>
                       </li>
@@ -193,7 +193,7 @@
                           </ul>
                       </li>-->
               
-                      <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                      <li class="nav-item"><a class="nav-link" href="<?php base_url();?>contact">Contact</a></li>
                     </ul>
                 </div>
               </nav>
