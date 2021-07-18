@@ -80,8 +80,8 @@
       <div class="logo-area">
           <div class="row align-items-center">
             <div class="logo col-lg-3 text-center text-lg-left mb-3 mb-md-5 mb-lg-0">
-                <a class="d-block" href="index.html">
-                  <img loading="lazy" src="assets/images/logo1.png" alt="Constra">
+                <a class="d-block" href="<?php base_url();?>">
+                  <img loading="lazy" src="assets/images/logo1.png" alt="Pushpakwood">
                 </a>
             </div><!-- logo end -->
   
@@ -91,7 +91,7 @@
                     <div class="info-box">
                       <div class="info-box-content">
                           <p class="info-box-title">Call Us</p>
-                          <p class="info-box-subtitle">(+91) 987-654-3210</p>
+                          <p class="info-box-subtitle">(+91) 973-598-7695</p>
                       </div>
                     </div>
                   </li>
@@ -99,7 +99,7 @@
                     <div class="info-box">
                       <div class="info-box-content">
                           <p class="info-box-title">Email Us</p>
-                          <p class="info-box-subtitle">office@email.com</p>
+                          <p class="info-box-subtitle">pwkamal@email.com</p>
                       </div>
                     </div>
                   </li>
@@ -107,7 +107,7 @@
                     <div class="info-box last">
                       <div class="info-box-content">
                           <p class="info-box-title">Call Us</p>
-                          <p class="info-box-subtitle">(+91) 987-654-3210</p>
+                          <p class="info-box-subtitle">(+91) 973-598-7695</p>
                       </div>
                     </div>
                   </li>
