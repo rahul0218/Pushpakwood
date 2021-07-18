@@ -1,4 +1,3 @@
-<h2><?= $title ?></h2>
 <div id="banner-area" class="banner-area" style="background-image:url(assets/images/banner/banner1.jpg)">
   <div class="banner-text">
     <div class="container">
@@ -158,7 +157,7 @@
 
       <div class="col-12">
         <div class="general-btn text-center">
-          <a class="btn btn-primary" href="projects.html">View All Projects</a>
+          <a class="btn btn-primary" href="<?php base_url();?>projects">View All Projects</a>
         </div>
       </div>
 

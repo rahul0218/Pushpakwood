@@ -7,8 +7,8 @@
                 <h2 class="slide-title" data-animation-in="slideInLeft">Many Years of excellence in</h2>
                 <h3 class="slide-sub-title" data-animation-in="slideInRight">My Industry</h3>
                 <p data-animation-in="slideInLeft" data-duration-in="1.2">
-                    <a href="projects.html" class="slider btn btn-primary">Our Products</a>
-                    <a href="contact.html" class="slider btn btn-primary border">Contact Now</a>
+                    <a href="<?php base_url();?>projects" class="slider btn btn-primary">Our Products</a>
+                    <a href="<?php base_url();?>contact" class="slider btn btn-primary border">Contact Now</a>
                 </p>
               </div>
           </div>
@@ -25,7 +25,7 @@
                 <h3 class="slide-title" data-animation-in="fadeIn">When Service Matters</h3>
                 <h3 class="slide-sub-title" data-animation-in="slideInLeft">Your Choice is Simple</h3>
                 <p data-animation-in="slideInRight">
-                    <a href="projects.html" class="slider btn btn-primary border">Our Products</a>
+                    <a href="<?php base_url();?>projects" class="slider btn btn-primary border">Our Products</a>
                 </p>
               </div>
           </div>
@@ -42,8 +42,8 @@
                 <h3 class="slide-sub-title" data-animation-in="fadeIn">We believe sustainability</h3>
                 <p class="slider-description lead" data-animation-in="slideInRight">We will deal with your failure that determines how you achieve success.</p>
                 <div data-animation-in="slideInLeft">
-                    <a href="contact.html" class="slider btn btn-primary" aria-label="contact-with-us">Countact Us</a>
-                    <a href="about.html" class="slider btn btn-primary border" aria-label="learn-more-about-us">Learn more</a>
+                    <a href="<?php base_url();?>contact" class="slider btn btn-primary" aria-label="contact-with-us">Countact Us</a>
+                    <a href="<?php base_url();?>about" class="slider btn btn-primary border" aria-label="learn-more-about-us">Learn more</a>
                 </div>
               </div>
           </div>
@@ -63,7 +63,7 @@
           </div><!-- Col end -->
           <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">
               <div class="call-to-action-btn">
-                <a class="btn btn-dark" href="#">Contact Us</a>
+                <a class="btn btn-dark" href="<?php base_url();?>contact">Contact Us</a>
               </div>
           </div><!-- col end -->
         </div><!-- row end -->
@@ -197,7 +197,7 @@
                 <img loading="lazy" src="assets/images/icon-image/fact1.png" alt="facts-img">
               </div>
               <div class="ts-facts-content">
-                <h2 class="ts-facts-num"><span class="counterUp" data-count="1789">0</span></h2>
+                <h2 class="ts-facts-num"><span class="counterUp" data-count="50">0</span>+</h2>
                 <h3 class="ts-facts-title">Total Projects</h3>
               </div>
           </div><!-- Col end -->
@@ -207,7 +207,7 @@
                 <img loading="lazy" src="assets/images/icon-image/fact2.png" alt="facts-img">
               </div>
               <div class="ts-facts-content">
-                <h2 class="ts-facts-num"><span class="counterUp" data-count="647">0</span></h2>
+                <h2 class="ts-facts-num"><span class="counterUp" data-count="10">0</span>+</h2>
                 <h3 class="ts-facts-title">Staff Members</h3>
               </div>
           </div><!-- Col end -->
@@ -217,7 +217,7 @@
                 <img loading="lazy" src="assets/images/icon-image/fact3.png" alt="facts-img">
               </div>
               <div class="ts-facts-content">
-                <h2 class="ts-facts-num"><span class="counterUp" data-count="4000">0</span></h2>
+                <h2 class="ts-facts-num"><span class="counterUp" data-count="12000">0</span>+</h2>
                 <h3 class="ts-facts-title">Hours of Work</h3>
               </div>
           </div><!-- Col end -->
@@ -227,8 +227,8 @@
                 <img loading="lazy" src="assets/images/icon-image/fact4.png" alt="facts-img">
               </div>
               <div class="ts-facts-content">
-                <h2 class="ts-facts-num"><span class="counterUp" data-count="44">0</span></h2>
-                <h3 class="ts-facts-title">Countries Experience</h3>
+                <h2 class="ts-facts-num"><span class="counterUp" data-count="10">0</span>+</h2>
+                <h3 class="ts-facts-title">Years Experience</h3>
               </div>
           </div><!-- Col end -->
 
@@ -266,7 +266,7 @@
                 <img loading="lazy" src="assets/images/icon-image/service-icon2.png" alt="service-icon">
               </div>
               <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Design</a></h3>
+                <h3 class="service-box-title"><a href="#">Plywood Design</a></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
               </div>
           </div><!-- Service 2 end -->
@@ -276,7 +276,7 @@
                 <img loading="lazy" src="assets/images/icon-image/service-icon3.png"  alt="service-icon">
               </div>
               <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Interior Design</a></h3>
+                <h3 class="service-box-title"><a href="#">Door Design</a></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
               </div>
           </div><!-- Service 3 end -->
@@ -293,7 +293,7 @@
                 <img loading="lazy" src="assets/images/icon-image/service-icon4.png" alt="service-icon">
               </div>
               <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Exterior Design</a></h3>
+                <h3 class="service-box-title"><a href="#">Door Design (CNC)</a></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
               </div>
           </div><!-- Service 4 end -->
@@ -470,7 +470,7 @@
 
       <div class="col-12">
         <div class="general-btn text-center">
-          <a class="btn btn-primary" href="projects.html">View All Projects</a>
+          <a class="btn btn-primary" href="<?php base_url();?>projects">View All Projects</a>
         </div>
       </div>
 
@@ -604,7 +604,7 @@
         <div class="col-lg-4">
           <div class="subscribe-call-to-acton">
               <h3>Can We Help?</h3>
-              <h4>(+9) 847-291-4353</h4>
+              <h4>(+91) 973-598-7695</h4>
           </div>
         </div><!-- Col end -->
 
