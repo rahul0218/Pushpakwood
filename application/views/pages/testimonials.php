@@ -33,7 +33,9 @@
          <div class="col-lg-4 col-md-6">
             <div class="quote-item quote-border mt-5">
                <div class="quote-text-border">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.
+               "I wish I would have thought of it first. 
+                    I will refer everyone I know. Plywood has completely surpassed our expectations.
+                     Best. Product. Ever!"
                </div>
 
                <div class="quote-item-footer">
@@ -49,7 +51,9 @@
          <div class="col-lg-4 col-md-6">
             <div class="quote-item quote-border mt-5">
                <div class="quote-text-border">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.
+               "Plywood saved my business. 
+                    I made back the purchase price in just 48 hours! 
+                    I was amazed at the quality of Plywood."
                </div>
 
                <div class="quote-item-footer">
@@ -65,7 +69,7 @@
          <div class="col-lg-4 col-md-6">
             <div class="quote-item quote-border mt-5">
                <div class="quote-text-border">
-                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.
+               "I STRONGLY recommend Plywood to EVERYONE interested in running a successful online business!"
                </div>
 
                <div class="quote-item-footer">
