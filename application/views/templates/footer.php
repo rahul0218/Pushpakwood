@@ -6,8 +6,9 @@
           <div class="col-lg-4 col-md-6 footer-widget footer-about">
             <h3 class="widget-title">About Us</h3>
             <img loading="lazy" class="footer-logo" src="assets/images/logo1.png" alt="Constra">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut
-              labore et dolore magna aliqua.</p>
+            <p>We supply number one wooden ply to the customer. we understand customers need and create product accordingly. 
+              We also provide plywood, wooden door designed by CNC, block board and sutrring ply. 
+              Please feel free to contact us for a quote with our custom design sheets etc...</p>
             <div class="footer-social">
               <ul>
                 <li><a href="https://facebook.com/themefisher" aria-label="Facebook"><i
@@ -24,8 +25,7 @@
           <div class="col-lg-4 col-md-6 footer-widget mt-5 mt-md-0">
             <h3 class="widget-title">Opening hours</h3>
             <div class="working-hours">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut
-              labore et dolore magna aliqua.
+              Here our working hours.
               <br><br> Monday: <span class="text-right">08:00 AM - 10:00 PM </span>
               <br> Tuesday: <span class="text-right">08:00 AM - 10:00 PM </span>
               <br> Wednesday: <span class="text-right">08:00 AM - 10:00 PM </span>

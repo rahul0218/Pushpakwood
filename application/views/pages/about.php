@@ -24,7 +24,9 @@
     <div class="row">
         <div class="col-lg-6">
           <h3 class="column-title">Who We Are</h3>
-          <p>when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</p>
+          <p>We supply number one wooden ply to the customer. we understand customers need and create product accordingly. 
+              We also provide plywood, wooden door designed by CNC, block board and sutrring ply. 
+              Please feel free to contact us for a quote with our custom design sheets etc...</p>
           <blockquote><p>Semporibus autem quibusdam et aut officiis debitis aut rerum est aut optio cumque nihil necessitatibus autemn ec tincidunt nunc posuere ut</p></blockquote>
           <p>He lay on his armour-like  back, and if he lifted. ultrices ultrices sapien, nec tincidunt nunc posuere ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing.</p>
 
