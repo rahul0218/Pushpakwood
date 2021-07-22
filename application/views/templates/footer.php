@@ -26,9 +26,13 @@
             <div class="working-hours">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut
               labore et dolore magna aliqua.
-              <br><br> Monday - Friday: <span class="text-right">10:00 - 16:00 </span>
-              <br> Saturday: <span class="text-right">12:00 - 15:00</span>
-              <br> Sunday and holidays: <span class="text-right">09:00 - 12:00</span>
+              <br><br> Monday: <span class="text-right">08:00 AM - 10:00 PM </span>
+              <br> Tuesday: <span class="text-right">08:00 AM - 10:00 PM </span>
+              <br> Wednesday: <span class="text-right">08:00 AM - 10:00 PM </span>
+              <br> Thursday: <span class="text-right">08:00 AM - 10:00 PM </span>
+              <br> Friday: <span class="text-right">08:00 AM - 10:00 PM </span>
+              <br> Saturday: <span class="text-right">08:00 AM - 10:00 PM</span>
+             <!-- <br> Sunday and holidays: <span class="text-right">09:00 - 12:00</span>-->
             </div>
           </div><!-- Col end -->
 

@@ -490,9 +490,9 @@
               <div class="item">
                 <div class="quote-item">
                     <span class="quote-text">
-                      Question ran over her cheek When she reached the first hills of the Italic Mountains, she had a last
-                      view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the
-                      subline of her own road.
+                    "I wish I would have thought of it first. 
+                    I will refer everyone I know. Plywood has completely surpassed our expectations.
+                     Best. Product. Ever!"
                     </span>
 
                     <div class="quote-item-footer">
@@ -509,9 +509,9 @@
               <div class="item">
                 <div class="quote-item">
                     <span class="quote-text">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut
-                      labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitoa tion ullamco laboris
-                      nisi aliquip consequat.
+                    "Plywood saved my business. 
+                    I made back the purchase price in just 48 hours! 
+                    I was amazed at the quality of Plywood."
                     </span>
 
                     <div class="quote-item-footer">
@@ -528,9 +528,7 @@
               <div class="item">
                 <div class="quote-item">
                     <span class="quote-text">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut
-                      labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitoa tion ullamco laboris
-                      nisi ut commodo consequat.
+                    "I STRONGLY recommend Plywood to EVERYONE interested in running a successful online business!"
                     </span>
 
                     <div class="quote-item-footer">
