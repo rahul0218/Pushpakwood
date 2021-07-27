@@ -163,7 +163,7 @@
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="services.html">Services All</a></li>
+                            <li><a href="<?php base_url();?>services">Services All</a></li>
                             <!--<li><a href="service-single.html">Services Single</a></li>-->
                           </ul>
                       </li>
