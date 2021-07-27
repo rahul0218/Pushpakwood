@@ -303,7 +303,7 @@
                 <img loading="lazy" src="assets/images/icon-image/service-icon5.png" alt="service-icon">
               </div>
               <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Renovation</a></h3>
+                <h3 class="service-box-title"><a href="#">Block Board</a></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
               </div>
           </div><!-- Service 5 end -->
@@ -313,7 +313,7 @@
                 <img loading="lazy" src="assets/images/icon-image/service-icon6.png" alt="service-icon">
               </div>
               <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Safety Management</a></h3>
+                <h3 class="service-box-title"><a href="#">Shuterring Ply</a></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
               </div>
           </div><!-- Service 6 end -->
