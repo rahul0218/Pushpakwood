@@ -340,23 +340,20 @@
           <label class="active" for="all">
             <input type="radio" name="shuffle-filter" id="all" value="all" checked="checked">Show All
           </label>
-          <label for="commercial">
-            <input type="radio" name="shuffle-filter" id="commercial" value="commercial">Category 1
+          <label for="homeplywood">
+            <input type="radio" name="shuffle-filter" id="homeplywood" value="homeplywood">Home Plywood
           </label>
-          <label for="education">
-            <input type="radio" name="shuffle-filter" id="education" value="education">Category 2
+          <label for="plywooddesign">
+            <input type="radio" name="shuffle-filter" id="plywooddesign" value="plywooddesign">Plywood Design
           </label>
-          <label for="government">
-            <input type="radio" name="shuffle-filter" id="government" value="government">Category 3
+          <label for="doordesign">
+            <input type="radio" name="shuffle-filter" id="doordesign" value="doordesign">Door Design
           </label>
-          <label for="infrastructure">
-            <input type="radio" name="shuffle-filter" id="infrastructure" value="infrastructure">Category 3
+          <label for="blockboard">
+            <input type="radio" name="shuffle-filter" id="blockboard" value="blockboard">Block Board
           </label>
-          <label for="residential">
-            <input type="radio" name="shuffle-filter" id="residential" value="residential">Category 4
-          </label>
-          <label for="healthcare">
-            <input type="radio" name="shuffle-filter" id="healthcare" value="healthcare">Category 5
+          <label for="shuterringply">
+            <input type="radio" name="shuffle-filter" id="shuterringply" value="shuterringply">Shuterring Ply
           </label>
         </div><!-- project filter end -->
 
@@ -364,7 +361,7 @@
         <div class="row shuffle-wrapper">
           <div class="col-1 shuffle-sizer"></div>
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;government&quot;,&quot;healthcare&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;,&quot;shuterringply&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="<?php base_url();?>assets/images/projects/bb1.jpeg" aria-label="project-img">
                 <img class="img-fluid" src="<?php base_url();?>assets/images/projects/bb1.jpeg" alt="project-img">
@@ -381,7 +378,7 @@
             </div>
           </div><!-- shuffle item 1 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;healthcare&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;shuterringply&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="assets/images/projects/bb2.jpeg" aria-label="project-img">
                 <img class="img-fluid" src="assets/images/projects/bb2.jpeg" alt="project-img">
@@ -398,7 +395,7 @@
             </div>
           </div><!-- shuffle item 2 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;commercial&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;homeplywood&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="assets/images/projects/bb3.jpg" aria-label="project-img">
                 <img class="img-fluid" src="assets/images/projects/bb3.jpg" alt="project-img">
@@ -415,7 +412,7 @@
             </div>
           </div><!-- shuffle item 3 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;education&quot;,&quot;infrastructure&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;plywooddesign&quot;,&quot;infrastructure&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="assets/images/projects/bb4.jpg" aria-label="project-img">
                 <img class="img-fluid" src="assets/images/projects/bb4.jpg" alt="project-img">
@@ -432,7 +429,7 @@
             </div>
           </div><!-- shuffle item 4 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;education&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;plywooddesign&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="assets/images/projects/bb5.jpg" aria-label="project-img">
                 <img class="img-fluid" src="assets/images/projects/bb5.jpg" alt="project-img">
@@ -450,7 +447,7 @@
             
           </div><!-- shuffle item 5 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;residential&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;blockboard&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="assets/images/projects/project6.jpg" aria-label="project-img">
                 <img class="img-fluid" src="assets/images/projects/project6.jpg" alt="project-img">

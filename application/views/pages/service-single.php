@@ -28,11 +28,11 @@
           <div class="widget">
             <h3 class="widget-title">Solutions</h3>
             <ul class="nav service-menu">
-              <li><a href="service-single.html">Home Construction</a></li>
-              <li class="active"><a href="service-single.html">Building Remodels</a></li>
-              <li><a href="#">Interior Design</a></li>
-              <li><a href="#">Exterior Design</a></li>
-              <li><a href="#">Renovation</a></li>
+              <li><a href="service-single.html">Home Plywood</a></li>
+              <li class="active"><a href="service-single.html">Plywood Design</a></li>
+              <li><a href="#">Door Design</a></li>
+              <li><a href="#">Block Board</a></li>
+              <li><a href="#">Shuterring Ply</a></li>
               <li><a href="#">Safety Management</a></li>
             </ul>
           </div><!-- Widget end -->
@@ -60,7 +60,7 @@
       <div class="col-xl-8 col-lg-8">
         <div class="content-inner-page">
 
-          <h2 class="column-title mrt-0">Building Remodels</h2>
+          <h2 class="column-title mrt-0">Plywood Design</h2>
 
           <div class="row">
             <div class="col-md-12">
