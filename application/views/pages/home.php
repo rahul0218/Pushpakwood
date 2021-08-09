@@ -380,8 +380,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;blockboard&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="assets/images/projects/bb2.jpeg" aria-label="project-img">
-                <img class="img-fluid" src="assets/images/projects/bb2.jpeg" alt="project-img">
+              <a class="gallery-popup" href="assets/images/projects/bb2.jpg" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/projects/bb2.jpg" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
