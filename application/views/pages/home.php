@@ -361,7 +361,7 @@
         <div class="row shuffle-wrapper">
           <div class="col-1 shuffle-sizer"></div>
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;,&quot;shuterringply&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;blockboard&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="<?php base_url();?>assets/images/projects/bb1.jpeg" aria-label="project-img">
                 <img class="img-fluid" src="<?php base_url();?>assets/images/projects/bb1.jpeg" alt="project-img">
@@ -378,7 +378,7 @@
             </div>
           </div><!-- shuffle item 1 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;shuterringply&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;blockboard&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="assets/images/projects/bb2.jpeg" aria-label="project-img">
                 <img class="img-fluid" src="assets/images/projects/bb2.jpeg" alt="project-img">
@@ -395,7 +395,7 @@
             </div>
           </div><!-- shuffle item 2 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;homeplywood&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;blockboard&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="assets/images/projects/bb3.jpg" aria-label="project-img">
                 <img class="img-fluid" src="assets/images/projects/bb3.jpg" alt="project-img">
@@ -412,7 +412,7 @@
             </div>
           </div><!-- shuffle item 3 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;plywooddesign&quot;,&quot;infrastructure&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;blockboard&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="assets/images/projects/bb4.jpg" aria-label="project-img">
                 <img class="img-fluid" src="assets/images/projects/bb4.jpg" alt="project-img">
@@ -429,10 +429,10 @@
             </div>
           </div><!-- shuffle item 4 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;infrastructure&quot;,&quot;plywooddesign&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;homeplywood&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="assets/images/projects/bb5.jpg" aria-label="project-img">
-                <img class="img-fluid" src="assets/images/projects/bb5.jpg" alt="project-img">
+              <a class="gallery-popup" href="assets/images/projects/hp1.jpg" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/projects/hp1.jpg" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
@@ -447,10 +447,46 @@
             
           </div><!-- shuffle item 5 end -->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;blockboard&quot;]">
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;homeplywood&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="assets/images/projects/project6.jpg" aria-label="project-img">
-                <img class="img-fluid" src="assets/images/projects/project6.jpg" alt="project-img">
+              <a class="gallery-popup" href="assets/images/projects/hp2.jpg" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/projects/hp2.jpg" alt="project-img">
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a href="projects-single.html">Product Title</a>
+                  </h3>
+                  <p class="project-cat">Product Name</p>
+                </div>
+              </div>
+            </div>
+            
+          </div><!-- shuffle item hp2 end -->
+
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;homeplywood&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href="assets/images/projects/hp3.jpg" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/projects/hp3.jpg" alt="project-img">
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a href="projects-single.html">Product Title</a>
+                  </h3>
+                  <p class="project-cat">Product Name</p>
+                </div>
+              </div>
+            </div>
+            
+          </div><!-- shuffle item hp2 end -->
+
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href="assets/images/projects/Door2.jpeg" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/projects/Door2.jpeg" alt="project-img">
                 <span class="gallery-icon"><i class="fa fa-plus"></i></span>
               </a>
               <div class="project-item-info">
@@ -463,6 +499,23 @@
               </div>
             </div>
           </div><!-- shuffle item 6 end -->
+
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href="assets/images/projects/Door1.jpg" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/projects/Door1.jpg" alt="project-img">
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a href="projects-single.html">Product Title</a>
+                  </h3>
+                  <p class="project-cat">Product Name</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- shuffle item 7 end -->
         </div><!-- shuffle end -->
       </div>
 

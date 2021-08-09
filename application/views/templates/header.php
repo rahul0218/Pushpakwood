@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
 ================================================== -->
   <meta charset="utf-8">
-  <title>Here we can use title</title>
+  <title>Pushpakwood</title>
 
   <!-- Mobile Specific Metas
 ================================================== -->
@@ -15,7 +15,7 @@
 
   <!-- Favicon
 ================================================== -->
-  <link rel="icon" type="image/png" href="<?php echo base_url('assets/images/favicon.png');?>">
+  <link rel="icon" type="image/png" href="<?php echo base_url('assets/images/logo1.png');?>">
 
   <!-- CSS
 ================================================== -->
