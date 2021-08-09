@@ -9,7 +9,7 @@
                     <ol class="breadcrumb justify-content-center">
                       <li class="breadcrumb-item"><a href="#">Home</a></li>
                       <li class="breadcrumb-item"><a href="#">Services</a></li>
-                      <li class="breadcrumb-item active" aria-current="page">Service Single</li>
+                      <li class="breadcrumb-item active" aria-current="page">Shuterring Ply</li>
                     </ol>
                 </nav>
               </div>
@@ -28,12 +28,12 @@
           <div class="widget">
             <h3 class="widget-title">Solutions</h3>
             <ul class="nav service-menu">
-              <li><a href="service-single.html">Home Plywood</a></li>
-              <li class="active"><a href="service-single.html">Plywood Design</a></li>
-              <li><a href="#">Door Design</a></li>
-              <li><a href="#">Block Board</a></li>
-              <li><a href="#">Shuterring Ply</a></li>
-              <li><a href="#">Safety Management</a></li>
+              <li><a href="<?php base_url();?>homeplywood">Home Plywood</a></li>
+              <li><a href="<?php base_url();?>plywooddesign">Plywood Design</a></li>
+              <li><a href="<?php base_url();?>doordesign">Door Design</a></li>
+              <li><a href="<?php base_url();?>blockboard">Block Board</a></li>
+              <li class="active"><a href="<?php base_url();?>shuterringply">Shuterring Ply</a></li>
+              
             </ul>
           </div><!-- Widget end -->
 
@@ -60,7 +60,7 @@
       <div class="col-xl-8 col-lg-8">
         <div class="content-inner-page">
 
-          <h2 class="column-title mrt-0">Plywood Design</h2>
+          <h2 class="column-title mrt-0">Shuterring Ply</h2>
 
           <div class="row">
             <div class="col-md-12">
