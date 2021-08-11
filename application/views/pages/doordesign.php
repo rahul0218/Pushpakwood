@@ -77,11 +77,11 @@
 
           <div id="page-slider" class="page-slider">
             <div class="item">
-              <img loading="lazy" class="img-fluid" src="assets/images/projects/project1.jpg" alt="project-slider-image" />
+              <img loading="lazy" class="img-fluid" src="assets/images/projects/Door1.jpg" alt="project-slider-image" />
             </div>
 
             <div class="item">
-              <img loading="lazy" class="img-fluid" src="assets/images/projects/project2.jpg" alt="project-slider-image" />
+              <img loading="lazy" class="img-fluid" src="assets/images/projects/Door2.jpeg" alt="project-slider-image" />
             </div>
           </div><!-- Page slider end -->
 
