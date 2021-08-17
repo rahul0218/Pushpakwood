@@ -548,8 +548,8 @@
                     <div class="quote-item-footer">
                       <img loading="lazy" class="testimonial-thumb" src="assets/images/clients/testimonial1.png" alt="testimonial">
                       <div class="quote-item-info">
-                          <h3 class="quote-author">Gabriel Denis</h3>
-                          <span class="quote-subtext">Chairman, OKT</span>
+                          <h3 class="quote-author">Dr. Satyanarayan Sharma</h3>
+                          <span class="quote-subtext">Chairman, Dishari Group</span>
                       </div>
                     </div>
                 </div><!-- Quote item end -->
@@ -567,7 +567,7 @@
                     <div class="quote-item-footer">
                       <img loading="lazy" class="testimonial-thumb" src="assets/images/clients/testimonial2.png" alt="testimonial">
                       <div class="quote-item-info">
-                          <h3 class="quote-author">Weldon Cash</h3>
+                          <h3 class="quote-author">Mr. Kailash Kumar Sharma</h3>
                           <span class="quote-subtext">CFO, First Choice</span>
                       </div>
                     </div>
@@ -584,8 +584,8 @@
                     <div class="quote-item-footer">
                       <img loading="lazy" class="testimonial-thumb" src="assets/images/clients/testimonial3.png" alt="testimonial">
                       <div class="quote-item-info">
-                          <h3 class="quote-author">Minter Puchan</h3>
-                          <span class="quote-subtext">Director, AKT</span>
+                          <h3 class="quote-author">Mr. Kamal Kumar Sharma</h3>
+                          <span class="quote-subtext">Director, Grihvatica</span>
                       </div>
                     </div>
                 </div><!-- Quote item end -->

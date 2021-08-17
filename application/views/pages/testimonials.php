@@ -1,4 +1,3 @@
-<h2><?= $title ?></h2>
 <div id="banner-area" class="banner-area" style="background-image:url(assets/images/banner/banner1.jpg)">
   <div class="banner-text">
     <div class="container">
@@ -41,8 +40,8 @@
                <div class="quote-item-footer">
                   <img loading="lazy" class="testimonial-thumb" src="assets/images/clients/testimonial1.png" alt="testimonial">
                   <div class="quote-item-info">
-                     <h3 class="quote-author">Gabriel Denis</h3>
-                     <span class="quote-subtext">Chairman, Okt Industries</span>
+                     <h3 class="quote-author">Dr. Satyanarayan Sharma</h3>
+                     <span class="quote-subtext">Chairman, Dishari Group</span>
                   </div>
                </div>
             </div><!-- Quote item end -->
@@ -59,7 +58,7 @@
                <div class="quote-item-footer">
                   <img loading="lazy" class="testimonial-thumb" src="assets/images/clients/testimonial2.png" alt="testimonial">
                   <div class="quote-item-info">
-                     <h3 class="quote-author">Weldon Cash</h3>
+                     <h3 class="quote-author">Mr. Kailash Kumar Sharma</h3>
                      <span class="quote-subtext">CEO, First Choice Group</span>
                   </div>
                </div>
@@ -75,8 +74,8 @@
                <div class="quote-item-footer">
                   <img loading="lazy" class="testimonial-thumb" src="assets/images/clients/testimonial3.png" alt="testimonial">
                   <div class="quote-item-info">
-                     <h3 class="quote-author">Hyram Izzy</h3>
-                     <span class="quote-subtext">Director, AKT Group</span>
+                     <h3 class="quote-author">Mr. Kamal Kumar Sharma</h3>
+                     <span class="quote-subtext">Director, Grihvatica</span>
                   </div>
                </div>
             </div><!-- Quote item end -->
