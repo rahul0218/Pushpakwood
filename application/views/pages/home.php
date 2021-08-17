@@ -516,6 +516,125 @@
               </div>
             </div>
           </div><!-- shuffle item 7 end -->
+
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href="assets/images/projects/Door4.jpg" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/projects/Door4.jpg" alt="project-img">
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a href="projects-single.html">Product Title</a>
+                  </h3>
+                  <p class="project-cat">Product Name</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- shuffle item 7 end -->
+
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href="assets/images/projects/door3.png" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/projects/door3.png" alt="project-img">
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a href="projects-single.html">Product Title</a>
+                  </h3>
+                  <p class="project-cat">Product Name</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- shuffle item 7 end -->
+
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href="assets/images/projects/door4.png" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/projects/door4.png" alt="project-img">
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a href="projects-single.html">Product Title</a>
+                  </h3>
+                  <p class="project-cat">Product Name</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- shuffle item 7 end -->
+
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href="assets/images/projects/door6.png" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/projects/door6.png" alt="project-img">
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a href="projects-single.html">Product Title</a>
+                  </h3>
+                  <p class="project-cat">Product Name</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- shuffle item 7 end -->
+
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href="assets/images/projects/door7.png" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/projects/door7.png" alt="project-img">
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a href="projects-single.html">Product Title</a>
+                  </h3>
+                  <p class="project-cat">Product Name</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- shuffle item 7 end -->
+
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href="assets/images/projects/door8.png" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/projects/door8.png" alt="project-img">
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a href="projects-single.html">Product Title</a>
+                  </h3>
+                  <p class="project-cat">Product Name</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- shuffle item 7 end -->
+
+          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
+            <div class="project-img-container">
+              <a class="gallery-popup" href="assets/images/projects/door9.png" aria-label="project-img">
+                <img class="img-fluid" src="assets/images/projects/door9.png" alt="project-img">
+                <span class="gallery-icon"><i class="fa fa-plus"></i></span>
+              </a>
+              <div class="project-item-info">
+                <div class="project-item-info-content">
+                  <h3 class="project-item-title">
+                    <a href="projects-single.html">Product Title</a>
+                  </h3>
+                  <p class="project-cat">Product Name</p>
+                </div>
+              </div>
+            </div>
+          </div><!-- shuffle item 7 end -->
         </div><!-- shuffle end -->
       </div>
 
