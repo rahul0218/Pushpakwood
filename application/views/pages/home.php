@@ -498,7 +498,7 @@
                 </div>
               </div>
             </div>
-          </div><!-- shuffle item 6 end -->
+          </div><!-- shuffle door 1 end -->
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
             <div class="project-img-container">
@@ -515,7 +515,7 @@
                 </div>
               </div>
             </div>
-          </div><!-- shuffle item 7 end -->
+          </div><!-- shuffle door 2 end -->
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
             <div class="project-img-container">
@@ -532,7 +532,7 @@
                 </div>
               </div>
             </div>
-          </div><!-- shuffle item 7 end -->
+          </div><!-- shuffle door 3 end -->
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
             <div class="project-img-container">
@@ -549,7 +549,7 @@
                 </div>
               </div>
             </div>
-          </div><!-- shuffle item 7 end -->
+          </div><!-- shuffle door 4 end -->
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
             <div class="project-img-container">
@@ -566,7 +566,7 @@
                 </div>
               </div>
             </div>
-          </div><!-- shuffle item 7 end -->
+          </div><!-- shuffle door 5 end -->
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
             <div class="project-img-container">
@@ -583,7 +583,7 @@
                 </div>
               </div>
             </div>
-          </div><!-- shuffle item 7 end -->
+          </div><!-- shuffle door 6 end -->
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
             <div class="project-img-container">
@@ -600,7 +600,7 @@
                 </div>
               </div>
             </div>
-          </div><!-- shuffle item 7 end -->
+          </div><!-- shuffle door 7 end -->
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
             <div class="project-img-container">
@@ -617,7 +617,7 @@
                 </div>
               </div>
             </div>
-          </div><!-- shuffle item 7 end -->
+          </div><!-- shuffle door 8 end -->
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;doordesign&quot;]">
             <div class="project-img-container">
@@ -634,7 +634,7 @@
                 </div>
               </div>
             </div>
-          </div><!-- shuffle item 7 end -->
+          </div><!-- shuffle door 9 end -->
         </div><!-- shuffle end -->
       </div>
 

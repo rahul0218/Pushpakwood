@@ -35,19 +35,20 @@
               <li><a href="<?php base_url();?>shuterringply">Shuterring Ply</a></li>
              
             </ul>
-          </div><!-- Widget end -->
-
-          <div class="widget">
+          </div>
+            <div class="widget">
             <div class="quote-item quote-border">
               <div class="quote-text-border">
-                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.
+              "I wish I would have thought of it first. 
+                    I will refer everyone I know. Plywood has completely surpassed our expectations.
+                     Best. Product. Ever!"
               </div>
 
               <div class="quote-item-footer">
                 <img loading="lazy" class="testimonial-thumb" src="assets/images/clients/testimonial1.png" alt="testimonial">
                 <div class="quote-item-info">
-                  <h3 class="quote-author">Weldon Cash</h3>
-                  <span class="quote-subtext">CEO, First Choice Group</span>
+                  <h3 class="quote-author">Dr. Satyanarayan Sharma</h3>
+                  <span class="quote-subtext">Chairman, Dishari Group</span>
                 </div>
               </div>
             </div><!-- Quote item end -->
