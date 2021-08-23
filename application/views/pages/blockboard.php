@@ -66,12 +66,10 @@
 
           <div class="row">
             <div class="col-md-12">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer adipiscing erat eget risus
-                sollicitudin pellentesque et non erat. Maecenas nibh dolor, malesuada et bibendum a, sagittis accumsan
-                ipsum. Pellentesque ultrices ultrices sapien.</p>
-              <p>Nam scelerisque tristique dolor vitae tincidunt. Aenean quis massa uada mi elementum elementum. , nec
-                tincidunt nunc posuere ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla commodo
-                iaculis ligula, ac dapibus quam ornare ut. Praesent ac hendrerit sem, et tempus sem</p>
+              <p>Block board ply, which is best timber. it’s totally anti warp & anti bend. 
+                It is completely termite free, fungus proof. 
+                This layer are bonded with phenol-formaldehyde resin and glue line.</p>
+              
             </div><!-- col end -->
           </div><!-- 1st row end-->
 

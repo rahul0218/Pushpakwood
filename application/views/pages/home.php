@@ -141,14 +141,14 @@
                 <div class="card-header p-0 bg-transparent" id="headingOne">
                     <h2 class="mb-0">
                       <button class="btn btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                          Safety
+                      Customer Priority
                       </button>
                     </h2>
                 </div>
               
                 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#our-values-accordion">
                     <div class="card-body">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut labore et dolore magna aliqua.
+                    We always priorities our customer in the way that customer always gets a good product in their budget. 
                     </div>
                 </div>
               </div>
@@ -162,7 +162,7 @@
                 </div>
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#our-values-accordion">
                     <div class="card-body">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut labore et dolore magna aliqua.
+                    We always provide quality assistant for our customer to buy best products.
                     </div>
                 </div>
               </div>
@@ -176,7 +176,7 @@
                 </div>
                 <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#our-values-accordion">
                     <div class="card-body">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci done idunt ut labore et dolore magna aliqua.
+                    “If you have integrity, nothing else matters.  If you don’t have integrity, nothing else matters.”  – Former Senator Alan K. Simpson
                     </div>
                 </div>
               </div>
