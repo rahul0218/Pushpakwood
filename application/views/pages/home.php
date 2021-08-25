@@ -266,7 +266,7 @@
                 <img loading="lazy" src="assets/images/icon-image/service-icon2.png" alt="service-icon">
               </div>
               <div class="ts-service-box-info">
-                <h3 class="service-box-title"><a href="#">Plywood Design</a></h3>
+                <h3 class="service-box-title"><a href="#">Flush Door</a></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat</p>
               </div>
           </div><!-- Service 2 end -->
@@ -344,7 +344,7 @@
             <input type="radio" name="shuffle-filter" id="homeplywood" value="homeplywood">Home Plywood
           </label>
           <label for="plywooddesign">
-            <input type="radio" name="shuffle-filter" id="plywooddesign" value="plywooddesign">Plywood Design
+            <input type="radio" name="shuffle-filter" id="plywooddesign" value="plywooddesign">Flush Door
           </label>
           <label for="doordesign">
             <input type="radio" name="shuffle-filter" id="doordesign" value="doordesign">Door Design

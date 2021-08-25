@@ -29,7 +29,7 @@
             <h3 class="widget-title">Solutions</h3>
             <ul class="nav service-menu">
               <li><a href="<?php base_url();?>homeplywood">Home Plywood</a></li>
-              <li class="active"><a href="<?php base_url();?>plywooddesign">Plywood Design</a></li>
+              <li class="active"><a href="<?php base_url();?>plywooddesign">Flush Door</a></li>
               <li><a href="<?php base_url();?>doordesign">Door Design</a></li>
               <li><a href="<?php base_url();?>blockboard">Block Board</a></li>
               <li><a href="<?php base_url();?>shuterringply">Shuterring Ply</a></li>
@@ -61,16 +61,12 @@
       <div class="col-xl-8 col-lg-8">
         <div class="content-inner-page">
 
-          <h2 class="column-title mrt-0">Plywood Design</h2>
+          <h2 class="column-title mrt-0">Flush Door</h2>
 
           <div class="row">
             <div class="col-md-12">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer adipiscing erat eget risus
-                sollicitudin pellentesque et non erat. Maecenas nibh dolor, malesuada et bibendum a, sagittis accumsan
-                ipsum. Pellentesque ultrices ultrices sapien.</p>
-              <p>Nam scelerisque tristique dolor vitae tincidunt. Aenean quis massa uada mi elementum elementum. , nec
-                tincidunt nunc posuere ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla commodo
-                iaculis ligula, ac dapibus quam ornare ut. Praesent ac hendrerit sem, et tempus sem</p>
+              <p>Our flush doors come with strength, dimensional stability and high impact resistant to offer security, protection and privacy. Flush doors are tailor-made to suit the varying needs of the consumers, be it for residential & commercial purpose. Flush Door is a quality product from Plushpakwood products house. It is made from selected imported timber. completely anti bend doors. It is water proof anti fungus.</p>
+              
             </div><!-- col end -->
           </div><!-- 1st row end-->
 

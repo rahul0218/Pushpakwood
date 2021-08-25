@@ -29,7 +29,7 @@
             <h3 class="widget-title">Solutions</h3>
             <ul class="nav service-menu">
               <li><a href="<?php base_url();?>homeplywood">Home Plywood</a></li>
-              <li><a href="<?php base_url();?>plywooddesign">Plywood Design</a></li>
+              <li><a href="<?php base_url();?>flushdoor">Flush Door</a></li>
               <li class="active"><a href="<?php base_url();?>doordesign">Door Design</a></li>
               <li><a href="<?php base_url();?>blockboard">Block Board</a></li>
               <li><a href="<?php base_url();?>shuterringply">Shuterring Ply</a></li>

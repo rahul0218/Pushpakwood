@@ -34,7 +34,9 @@
               </div>
               <div class="ts-service-info">
                   <h3 class="service-box-title"><a href="<?php base_url();?>homeplywood">Home Plywood</a></h3>
-                  <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
+                  <p>Home plywoods comes with 20 years warranty against borer and termite attacks. It is fit in all weather. 
+                It is completely water resistant. It is made with high density and selected core veneers. 
+                This layer are bonded with phenol-formaldehyde resin and glue line.</p>
                   <a class="learn-more d-inline-block" href="<?php base_url();?>homeplywood" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
               </div>
             </div>
@@ -51,9 +53,9 @@
                   <img loading="lazy" src="assets/images/icon-image/service-icon2.png" alt="service-icon">
               </div>
               <div class="ts-service-info">
-                  <h3 class="service-box-title"><a href="<?php base_url();?>plywooddesign">Plywood Design</a></h3>
-                  <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
-                  <a class="learn-more d-inline-block" href="<?php base_url();?>plywooddesign" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
+                  <h3 class="service-box-title"><a href="<?php base_url();?>flushdoor">Plywood Design</a></h3>
+                  <p>Being an extremely versatile product, plywood & block board is used for a wide range of applications. Panning from wardrobes and tables to shelves and cabin. With advancement in terms of technology and certifications. We offer not just superior precision, uniform thickness and greater strength, but also ensures safe indoor air quality.</p>
+                  <a class="learn-more d-inline-block" href="<?php base_url();?>flushdoor" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
               </div>
             </div>
         </div><!-- Service2 end -->
@@ -69,8 +71,8 @@
                   <img loading="lazy" src="assets/images/icon-image/service-icon3.png" alt="service-icon">
               </div>
               <div class="ts-service-info">
-                  <h3 class="service-box-title"><a href="<?php base_url();?>doordesign">Door Design</a></h3>
-                  <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
+                  <h3 class="service-box-title"><a href="<?php base_url();?>doordesign">Flush Door</a></h3>
+                  <p>Our flush doors come with strength, dimensional stability and high impact resistant to offer security, protection and privacy. Flush doors are tailor-made to suit the varying needs of the consumers, be it for residential & commercial purpose</p>
                   <a class="learn-more d-inline-block" href="<?php base_url();?>doordesign" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
               </div>
             </div>
@@ -88,7 +90,7 @@
               </div>
               <div class="ts-service-info">
                   <h3 class="service-box-title"><a href="<?php base_url();?>doordesign">Door Design(CNC)</a></h3>
-                  <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
+                  <p>HI-FI DOOR is quality product from the house of Pushpakwood. It is made from selected imported hardwood timber with high density and selected core. The layers are bonded with phenol-formaldehyde resin and glue line protector.</p>
                   <a class="learn-more d-inline-block" href="<?php base_url();?>doordesign" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
               </div>
             </div>
@@ -106,7 +108,7 @@
               </div>
               <div class="ts-service-info">
                   <h3 class="service-box-title"><a href="<?php base_url();?>blockboard">Block Board</a></h3>
-                  <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
+                  <p>Being an extremely versatile product, plywood & block board is used for a wide range of applications. Panning from wardrobes and tables to shelves and cabin. With advancement in terms of technology and certifications.</p>
                   <a class="learn-more d-inline-block" href="<?php base_url();?>blockboard" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
               </div>
             </div>
@@ -124,7 +126,7 @@
               </div>
               <div class="ts-service-info">
                   <h3 class="service-box-title"><a href="<?php base_url();?>shuterringply">Shuterring Ply</a></h3>
-                  <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
+                  <p>We offers customised solution for its varied customer requirements in the construction, automobile and engineering industries.</p>
                   <a class="learn-more d-inline-block" href="<?php base_url();?>shuterringply" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
               </div>
             </div>
