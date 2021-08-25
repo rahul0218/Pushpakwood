@@ -23,8 +23,8 @@
   <div class="container">
 
     <div class="row">
-      <div class="col-lg-8">
-        <h3 class="border-title border-left mar-t0">General</h3>
+      <div class="col-lg-12">
+        <h3 class="border-title border-left mar-t0">Frequently Asked Questions.</h3>
 
         <div class="accordion accordion-group accordion-classic" id="construction-accordion">
           <div class="card">
@@ -32,7 +32,7 @@
               <h2 class="mb-0">
                 <button class="btn btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne"
                   aria-expanded="true" aria-controls="collapseOne">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.?
+                  Can I leave waterproof plywood furniture outside, in the rainy season?
                 </button>
               </h2>
             </div>
@@ -40,9 +40,9 @@
             <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
               data-parent="#construction-accordion">
               <div class="card-body">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                scrambled it to make a type specimen book
+              No. Even waterproof furniture has a limit to which it can resist moisture. 
+              There are few way to exposing water proof outdoor furniture constantly will eventually make it lose its shine and durability. 
+              A few spills won’t hurt the plywood, but more than that and it will spell trouble for the furniture.
               </div>
             </div>
           </div>
@@ -51,15 +51,16 @@
               <h2 class="mb-0">
                 <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse"
                   data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.?
+                  Are water resistant plywood and marine plywood the same?
                 </button>
               </h2>
             </div>
             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#construction-accordion">
               <div class="card-body">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                scrambled it to make a type specimen book
+              Absolutely not. Water resistant plywood can resist water up to some extent. 
+              It can easily withstand the occasional splash of water, or frequent exposure to humidity with ease. 
+              However, marine plywood has much higher water resistance; so much so, that it can be used to build boats. 
+              This is not something that water resistant plywood can ever match.
               </div>
             </div>
           </div>
@@ -68,131 +69,89 @@
               <h2 class="mb-0">
                 <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse"
                   data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.?
+                  What is the meaning of this BWR/BWP printed on plywood sheets?
                 </button>
               </h2>
             </div>
             <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
               data-parent="#construction-accordion">
               <div class="card-body">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                scrambled it to make a type specimen book.
+              BWR stands for Boiling Water Resistant, and indicates that the plywood in question is resistant to water. 
+              BWP stands for Boiling Water Proof, which has a much higher water resistance and is pretty much impervious to water. 
+              There are also other waterproof plywood specifications, but these are the most common.
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header p-0 bg-transparent" id="headingThree">
+              <h2 class="mb-0">
+                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse"
+                  data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  Should I use marine grade plywood to make the bed?
+                </button>
+              </h2>
+            </div>
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+              data-parent="#construction-accordion">
+              <div class="card-body">
+              Well, you certainly can, but it will be overkill. 
+              After all, you don’t expect your bed to be submerged in water for days on end, do you? 
+              Interior grade MR plywood should work just fine here. 
+              If you are making a folding cot that you might use outside at times, then consider building it with BWR (water resistant) plywood. 
+              Save marine grade plywood for structures that may have to withstand large quantities of water. Your roof, for instance, is one such place. 
+              Same goes for bathroom doors and chairs that you are likely to leave on the patio.
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header p-0 bg-transparent" id="headingThree">
+              <h2 class="mb-0">
+                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse"
+                  data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  Is Sylvan Plywood good?
+                </button>
+              </h2>
+            </div>
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+              data-parent="#construction-accordion">
+              <div class="card-body">
+              It is manufactured with utmost care & caution by using Imported High density Timber, which ensures the ply's natural strength and durability . 
+              Sylvan ply layers are bonded with superior quality phenol formaldehyde resin which makes them highly resistant to wood borer, termite and fungus attacks.
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="card-header p-0 bg-transparent" id="headingThree">
+              <h2 class="mb-0">
+                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse"
+                  data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  Why is Pushpakwood's Ply a better product?
+                </button>
+              </h2>
+            </div>
+            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+              data-parent="#construction-accordion">
+              <div class="card-body">
+              Century Ply uses good quality raw material and also has rigorous quality checks at every stage to verify that the best product is going to the market.
               </div>
             </div>
           </div>
         </div>
         <!--/ Accordion end -->
 
-        <div class="gap-40"></div>
+        
 
-        <h3 class="border-title border-left">Safety</h3>
+        
 
-        <div class="accordion accordion-group accordion-classic" id="safety-accordion">
-          <div class="card">
-            <div class="card-header p-0 bg-transparent" id="headingFour">
-              <h2 class="mb-0">
-                <button class="btn btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseFour"
-                  aria-expanded="true" aria-controls="collapseFour">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. ?
-                </button>
-              </h2>
-            </div>
-
-            <div id="collapseFour" class="collapse show" aria-labelledby="headingFour"
-              data-parent="#safety-accordion">
-              <div class="card-body">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                scrambled it to make a type specimen book
-              </div>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header p-0 bg-transparent" id="headingFive">
-              <h2 class="mb-0">
-                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse"
-                  data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.?
-                </button>
-              </h2>
-            </div>
-            <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#safety-accordion">
-              <div class="card-body">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                scrambled it to make a type specimen book
-              </div>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-header p-0 bg-transparent" id="headingSix">
-              <h2 class="mb-0">
-                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse"
-                  data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.?
-                </button>
-              </h2>
-            </div>
-            <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
-              data-parent="#safety-accordion">
-              <div class="card-body">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-                industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-                scrambled it to make a type specimen book.
-              </div>
-            </div>
-          </div>
-        </div>
-        <!--/ Accordion end -->
+        
+        
 
       </div><!-- Col end -->
 
-      <div class="col-lg-4 mt-5 mt-lg-0">
-
-        <div class="sidebar sidebar-right">
-          <div class="widget recent-posts">
-            <h3 class="widget-title">Recent Posts</h3>
-            <ul class="list-unstyled">
-              <li class="d-flex align-items-center">
-                <div class="posts-thumb">
-                  <a href="#"><img loading="lazy" alt="news-image" src="assets/images/news/news1.jpg"></a>
-                </div>
-                <div class="post-info">
-                  <h4 class="entry-title">
-                    <a href="#">We Just Completes $17.6 Million Medical Clinic In Mid-missouri</a>
-                  </h4>
-                </div>
-              </li><!-- 1st post end-->
-
-              <li class="d-flex align-items-center">
-                <div class="posts-thumb">
-                  <a href="#"><img loading="lazy" alt="news-img" src="assets/images/news/news2.jpg"></a>
-                </div>
-                <div class="post-info">
-                  <h4 class="entry-title">
-                    <a href="#">Thandler Airport Water Reclamation Facility Expansion Project Named</a>
-                  </h4>
-                </div>
-              </li><!-- 2nd post end-->
-
-              <li class="d-flex align-items-center">
-                <div class="posts-thumb">
-                  <a href="#"><img loading="lazy" alt="news-img" src="assets/images/news/news3.jpg"></a>
-                </div>
-                <div class="post-info">
-                  <h4 class="entry-title">
-                    <a href="#">Silicon Bench And Cornike Begin Construction Solar Facilities</a>
-                  </h4>
-                </div>
-              </li><!-- 3rd post end-->
-
-            </ul>
-
-          </div><!-- Recent post end -->
-        </div><!-- Sidebar end -->
-
-      </div><!-- Col end -->
+      
 
     </div><!-- Content row end -->
 
