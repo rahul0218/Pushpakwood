@@ -66,12 +66,8 @@
 
           <div class="row">
             <div class="col-md-12">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer adipiscing erat eget risus
-                sollicitudin pellentesque et non erat. Maecenas nibh dolor, malesuada et bibendum a, sagittis accumsan
-                ipsum. Pellentesque ultrices ultrices sapien.</p>
-              <p>Nam scelerisque tristique dolor vitae tincidunt. Aenean quis massa uada mi elementum elementum. , nec
-                tincidunt nunc posuere ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla commodo
-                iaculis ligula, ac dapibus quam ornare ut. Praesent ac hendrerit sem, et tempus sem</p>
+              <p>We offers customised solution for its varied customer requirements in the construction, automobile and engineering industries. Its shuttering ply range of super strong and highly compressed plywood is used in various construction-specific application for building construction for building structure. Pushpakwood offer the best in quality & performance for each of your requirements. </p>
+              
             </div><!-- col end -->
           </div><!-- 1st row end-->
 
@@ -91,19 +87,20 @@
 
           <div class="row">
             <div class="col-md-6">
-              <h3 class="column-title-small">What Makes Us Different</h3>
+            <h3 class="column-title-small">OUR SPECIALITY</h3>
 
-              <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
-                moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
-                Consectetur adipiscing elit. Integer adipiscing erat eget risus sollicitudin pellentesque et non erat
-                tincidunt nunc posuere.</p>
+              <p>PUSHPAKWOOD has established credibility with the usage of superior quality raw materials. We are very positive & selective about the quality of product. So, we option for the goods exacting our every need in details.</P>
+              <P>We take great pride in our state-of-the-art production facilities, which ensure the most efficient manufacturing process and production of premium quality ply.</P>
+              <P>Our workers are highly trained, passionate and professional hardworking in production and marketing, who always ensure transcendence in everything they do with unwavering determination.</P>
+              <P>We believe in providing best services to our customers. We never compromise in providing top most satisfaction for our customers.</P>
+            <h3 class="column-title-small">Key features</h3>  
               <ul class="list-arrow">
-                <li>Partnership Strategy tristique eleifend.</li>
-                <li>Opporutnity to work with amet elit a.</li>
-                <li>Saving Time to Deal with commodo iaculis.</li>
-                <li>Leadership skills to manage erat volutpat.</li>
-                <li>Cut cost without sacrificing dolore magna.</li>
-                <li>Automate your business elis tristique.</li>
+                <li>Size: 8x4.</li>
+                <li>Thickness- 12mm.</li>
+                <li>100% waterproof.</li>
+                <li>Bend proof.</li>
+                <li>Fungus free.</li>
+                <li>Termite proof.</li>
               </ul>
             </div>
 

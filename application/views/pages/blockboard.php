@@ -69,6 +69,8 @@
               <p>Block board ply, which is best timber. it’s totally anti warp & anti bend. 
                 It is completely termite free, fungus proof. 
                 This layer are bonded with phenol-formaldehyde resin and glue line.</p>
+              <p>Being an extremely versatile product, plywood & block board is used for a wide range of applications. Panning from wardrobes and tables to shelves and cabin. With advancement in terms of technology and certifications. We offer not just superior precision, uniform thickness and greater strength, but also ensures safe indoor air quality..</p>
+              <p>Block board ply, which is best timber. it’s totally anti warp & anti bend. It is completely termite free, fungus proof. This layer is bonded with phenol-formaldehyde resin and glue line. If you are searching for the highest quality commercial or marine grade plywood or block board in right price PUSHPAKWOOD is definitely the right choice.</p>
               
             </div><!-- col end -->
           </div><!-- 1st row end-->
@@ -89,19 +91,22 @@
 
           <div class="row">
             <div class="col-md-6">
-              <h3 class="column-title-small">What Makes Us Different</h3>
+              <h3 class="column-title-small">OUR SPECIALITY</h3>
 
-              <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
-                moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
-                Consectetur adipiscing elit. Integer adipiscing erat eget risus sollicitudin pellentesque et non erat
-                tincidunt nunc posuere.</p>
+              <p>PUSHPAKWOOD has established credibility with the usage of superior quality raw materials. We are very positive & selective about the quality of product. So, we option for the goods exacting our every need in details.</P>
+              <P>We take great pride in our state-of-the-art production facilities, which ensure the most efficient manufacturing process and production of premium quality ply.</P>
+              <P>Our workers are highly trained, passionate and professional hardworking in production and marketing, who always ensure transcendence in everything they do with unwavering determination.</P>
+              <P>We believe in providing best services to our customers. We never compromise in providing top most satisfaction for our customers.</P>
+
+
+              <h3 class="column-title-small">Key features</h3>  
               <ul class="list-arrow">
-                <li>Partnership Strategy tristique eleifend.</li>
-                <li>Opporutnity to work with amet elit a.</li>
-                <li>Saving Time to Deal with commodo iaculis.</li>
-                <li>Leadership skills to manage erat volutpat.</li>
-                <li>Cut cost without sacrificing dolore magna.</li>
-                <li>Automate your business elis tristique.</li>
+                <li>Anti-warp & anti bend.</li>
+                <li>Borer free.</li>
+                <li>Borer & termite resistant.</li>
+                <li>100% eco-friendly.</li>
+                <li>Water resistant.</li>
+                <li>Fit for all weather.</li>
               </ul>
             </div>
 
