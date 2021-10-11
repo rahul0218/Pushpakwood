@@ -91,7 +91,7 @@
                     <div class="info-box">
                       <div class="info-box-content">
                           <p class="info-box-title">Call Us</p>
-                          <p class="info-box-subtitle">(+91) 973-598-7695</p>
+                          <p class="info-box-subtitle">(+91) 954-737-9119</p>
                       </div>
                     </div>
                   </li>
@@ -99,7 +99,7 @@
                     <div class="info-box">
                       <div class="info-box-content">
                           <p class="info-box-title">Email Us</p>
-                          <p class="info-box-subtitle">pwkamal@email.com</p>
+                          <p class="info-box-subtitle">pwkamal@gmail.com</p>
                       </div>
                     </div>
                   </li>
@@ -107,7 +107,7 @@
                     <div class="info-box last">
                       <div class="info-box-content">
                           <p class="info-box-title">Call Us</p>
-                          <p class="info-box-subtitle">(+91) 973-598-7695</p>
+                          <p class="info-box-subtitle">(+91) 954-737-9119</p>
                       </div>
                     </div>
                   </li>

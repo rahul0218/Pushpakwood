@@ -284,7 +284,7 @@
         </div><!-- Col end -->
 
         <div class="col-lg-4 text-center">
-          <img loading="lazy" class="img-fluid" src="assets/images/services/service-center.jpg" alt="service-avater-image">
+          <img loading="lazy" class="img-fluid" src="assets/images/services/service-center.png" alt="service-avater-image">
         </div><!-- Col end -->
 
         <div class="col-lg-4 mt-5 mt-lg-0 mb-4 mb-lg-0">
@@ -704,7 +704,7 @@
                       <img loading="lazy" class="testimonial-thumb" src="assets/images/clients/testimonial3.png" alt="testimonial">
                       <div class="quote-item-info">
                           <h3 class="quote-author">Mr. Kamal Kumar Sharma</h3>
-                          <span class="quote-subtext">Director, Grihvatica</span>
+                          <span class="quote-subtext">CEO, Griha vatica (Malda)</span>
                       </div>
                     </div>
                 </div><!-- Quote item end -->
