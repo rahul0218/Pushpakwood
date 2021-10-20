@@ -50,7 +50,7 @@
           </span>
           <div class="ts-service-box-content">
             <h4>Email Us</h4>
-            <p>pwkamal@email.com</p>
+            <p><a href="mailto:pwkamal@gmail.com">pwkamal@gmail.com</a></p>
           </div>
         </div>
       </div><!-- Col 2 end -->
@@ -62,7 +62,7 @@
           </span>
           <div class="ts-service-box-content">
             <h4>Call Us</h4>
-            <p>(+91) 973-598-7695</p>
+            <p><a href="tel:+919547379119">(+91) 954-737-9119</a></p>
           </div>
         </div>
       </div><!-- Col 3 end -->
@@ -72,7 +72,7 @@
     <div class="gap-60"></div>
     
     <div class="google-map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d471220.5630814521!2d88.04952930317725!3d22.675752081465685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f882db4908f667%3A0x43e330e68f6c2cbc!2sKolkata%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1626608791081!5m2!1sen!2sin" width="1100" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.6810098830792!2d88.11252351432326!3d25.01095294537053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fafd499ee4565d%3A0x830550b30e8faed6!2sPushpak%20Wood%20Products%20Pvt.%20Ltd.!5e0!3m2!1sen!2sin!4v1634730411959!5m2!1sen!2sin" width="1100" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
       <!--<div id="map" class="map" data-latitude="22.56565641399089" data-longitude="-88.3696349283095" data-marker="assets/images/marker.png" data-marker-name="Constra"></div>-->
     </div>
 
